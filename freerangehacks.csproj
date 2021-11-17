@@ -18,7 +18,7 @@
     <!--<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.1.1" />-->
     <!--<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.2" />-->
     <!--<PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.12" />-->
-    <PackageReference Include="Piranha" Version="5.1.0" />
+    <PackageReference Include="Piranha" Version="10.0.0" />
     <PackageReference Include="Piranha.AspNetCore" Version="5.1.0" />
     <PackageReference Include="Piranha.AspNetCore.Identity.MySQL" Version="5.1.0" />
     <!--<PackageReference Include="Piranha.AspNetCore.Identity.SQLite" Version="5.1.0" />-->
